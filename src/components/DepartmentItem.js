@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { AppContext } from "../context/AppContext";
-import { FaMinusCircle, FaPlusCircle, FaTimesCircle } from "react-icons/fa";
+import { FaMinusCircle, FaPlusCircle } from "react-icons/fa";
 
 const centerText = {
   textAlign: "center",
